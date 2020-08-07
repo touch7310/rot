@@ -1,0 +1,2 @@
+# rot
+for vue router
